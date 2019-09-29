@@ -55,4 +55,4 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.icon-search:before { content: '\f50d'; margin-top: 100px} /* '' */
+.icon-search:before { content: '\f50d';} /* '' */
