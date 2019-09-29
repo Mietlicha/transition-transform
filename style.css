@@ -1,0 +1,36 @@
+body
+{background-color: rgb(59, 56, 56);
+color: #fff;
+margin: 0;
+}
+
+h1
+{
+    color: rgb(38, 228, 212);
+    font-size: 55px;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 20px;
+}
+
+article{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgb(88, 85, 85);
+}
+
+.img{
+    display: inline-block;
+    width: 33%;
+    margin-bottom: 20px;
+}
+
+img{
+    width: 100%;
+}
+
+figcaption{
+    text-align-last: center;
+    padding: 15px;
+}
